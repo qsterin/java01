@@ -1,6 +1,6 @@
 public class main {
     public static void main(String[] args) {
-            int eaters = 7; // сколько людей будут есть
+            int eaters = 5; // сколько людей будут есть
 
             int water = 3000; // миллилитров воды
             int potatoes = 5; // картофелин
