@@ -1,6 +1,9 @@
 # Default ignored files
 /shelf/
 /out/
+/.idea/
+/.gitignore
+/.DS_Store
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
